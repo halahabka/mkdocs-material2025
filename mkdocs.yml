@@ -7,8 +7,14 @@ theme:
     code : Red Hat Mono
   logo: assets/logo_couleur.svg
   favicon: assets/favicon.ico
+  icon:
+    annotation: material/arrow-right-circle
   features:
     - navigation.footer
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - content.tabs.link
   palette:
     # Dark Mode
     - scheme: slate
@@ -28,6 +34,13 @@ theme:
 
 markdown_extensions:
   - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -51,5 +64,11 @@ extra:
   social:
     - icon: logo
       link: https://ade-produit.adesoft.com/portal
+  annotate:
+    json: [.s2]
 
 copyright: Copyright &copy; 2022025 HHA
+extra_javascript:
+  - javascripts/extra.js
+extra_css:
+  - stylesheets/extra.css
