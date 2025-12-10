@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/"/>
+    </url>
+    <url>
+        <loc>Nonebasics/code-ex/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonebasics/code-ex/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/basics/code-ex/"/>
+    </url>
+    <url>
+        <loc>Nonebasics/content-tabs/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonebasics/content-tabs/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/basics/content-tabs/"/>
+    </url>
+    <url>
+        <loc>Nonebasics/table/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonebasics/table/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/basics/table/"/>
+    </url>
+    <url>
+        <loc>Nonemore%20interesting/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemore%20interesting/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/more%20interesting/"/>
+    </url>
+    <url>
+        <loc>Nonemore%20interesting/admonnitions-and-buttons/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemore%20interesting/admonnitions-and-buttons/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/more%20interesting/admonnitions-and-buttons/"/>
+    </url>
+    <url>
+        <loc>Nonemore%20interesting/diagram/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemore%20interesting/diagram/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/more%20interesting/diagram/"/>
+    </url>
+    <url>
+        <loc>Nonemore%20interesting/grid-and-tooltips/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemore%20interesting/grid-and-tooltips/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/more%20interesting/grid-and-tooltips/"/>
+    </url>
+    <url>
+        <loc>Nonefr/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonefr/basics/code-ex/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/basics/code-ex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonebasics/code-ex/"/>
+    </url>
+    <url>
+        <loc>Nonefr/basics/content-tabs/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/basics/content-tabs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonebasics/content-tabs/"/>
+    </url>
+    <url>
+        <loc>Nonefr/basics/table/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/basics/table/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonebasics/table/"/>
+    </url>
+    <url>
+        <loc>Nonefr/more%20interesting/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/more%20interesting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemore%20interesting/"/>
+    </url>
+    <url>
+        <loc>Nonefr/more%20interesting/admonnitions-and-buttons/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/more%20interesting/admonnitions-and-buttons/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemore%20interesting/admonnitions-and-buttons/"/>
+    </url>
+    <url>
+        <loc>Nonefr/more%20interesting/diagram/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/more%20interesting/diagram/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemore%20interesting/diagram/"/>
+    </url>
+    <url>
+        <loc>Nonefr/more%20interesting/grid-and-tooltips/</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/more%20interesting/grid-and-tooltips/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemore%20interesting/grid-and-tooltips/"/>
+    </url>
+</urlset>
