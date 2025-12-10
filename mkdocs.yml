@@ -1,5 +1,6 @@
 site_name: ADE V7
-site_url: https://ade-produit.adesoft.com/portal
+copyright: Copyright &copy; 2025 - HHA
+# site_url: https://ade-produit.adesoft.com/portal
 theme:
   name: material
   font:
@@ -9,13 +10,32 @@ theme:
   favicon: assets/favicon.ico
   icon:
     annotation: material/arrow-right-circle
+    tag:
+      html: fontawesome/brands/html5
+      js: fontawesome/brands/js
+      css:  fontawesome/brands/css3
   features:
     - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    #- navigation.tabs
+    #- navigation.tabs.sticky
+    - navigation.tracking
+    #- navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - toc.integrate
     - content.code.copy
     - content.code.select
     - content.code.annotate
     - content.tabs.link
     - content.tooltips
+    - search.suggest
+    - search.highlight
+    - search.share
   palette:
     # Dark Mode
     - scheme: slate
@@ -32,7 +52,6 @@ theme:
         name: Light mode
       primary: blue
       accent: deep orange
-
 markdown_extensions:
   - abbr
   - attr_list
@@ -70,11 +89,27 @@ extra:
       link: https://ade-produit.adesoft.com/portal
   annotate:
     json: [.s2]
-
-copyright: Copyright &copy; 2022025 HHA
+  tags:
+    HTML5: html
+    JavaScript: js
+    CSS: css
+  generator: false
 extra_javascript:
   - javascripts/extra.js
 extra_css:
   - stylesheets/extra.css
 watch:
   - includes
+plugins:
+  - search
+  - tags
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          build: true

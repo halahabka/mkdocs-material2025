@@ -1,4 +1,4 @@
-# Table page
+# Table and some formatting EN
 
 | Method      | Description                          |
 | :----------: | :-----------------------------------: |
