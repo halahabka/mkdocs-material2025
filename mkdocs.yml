@@ -15,6 +15,7 @@ theme:
     - content.code.select
     - content.code.annotate
     - content.tabs.link
+    - content.tooltips
   palette:
     # Dark Mode
     - scheme: slate
@@ -33,6 +34,7 @@ theme:
       accent: deep orange
 
 markdown_extensions:
+  - abbr
   - attr_list
   - md_in_html
   - tables
@@ -49,7 +51,9 @@ markdown_extensions:
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -72,3 +76,5 @@ extra_javascript:
   - javascripts/extra.js
 extra_css:
   - stylesheets/extra.css
+watch:
+  - includes
